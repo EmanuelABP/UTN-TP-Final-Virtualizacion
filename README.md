@@ -24,6 +24,7 @@ En este repositorio se encuentran los siguientes archivos y carpetas:
   - **Nadia/**  
     Contiene todas las capturas realizadas durante la práctica de Nadia.  
     Incluye un archivo `README.md` que detalla y explica cada imagen.
+- [Video Explicativo del TP Final Arquitectura y SO](https://youtu.be/fhdH6KIqerE)
 
 ---
 
@@ -43,6 +44,7 @@ En este repositorio se encuentran los siguientes archivos y carpetas:
 - [VirtualBox](https://www.virtualbox.org/)  
 - [Ubuntu Desktop](https://ubuntu.com/download/desktop)  
 - [Documentación oficial de Python](https://docs.python.org/3/)
+- [Video Explicativo del TP Final Arquitectura y SO](https://youtu.be/fhdH6KIqerE)
 
 ---
 
